@@ -3,8 +3,11 @@ Heap make and apply
 #pragma once
 
 #include<stdio.h>
+
 #include<windows.h>
+
 #include<time.h>
+
 #include<assert.h>
 
 #define N 1000
